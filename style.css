@@ -1,0 +1,29 @@
+body{
+  background-color:sandybrown;
+}
+table{
+  background-color: yellow;
+  padding: 2px;
+  margin: 0;
+  width: auto;
+}
+tr{
+  background-color: blue;
+}
+td{
+  background-color: red;
+}
+img{
+  width: 50%;
+  height: 50%;
+}
+#div1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-30%,-50%);
+}
+h2{
+  margin: 0;
+  color: orangered;
+}
