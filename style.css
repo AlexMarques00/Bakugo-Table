@@ -1,21 +1,20 @@
 body{
-  background-color:sandybrown;
+  background-color: rgb(255, 215, 199);
 }
 table{
-  background-color: yellow;
+  background-color: white;
   padding: 2px;
   margin: 0;
   width: auto;
 }
 tr{
-  background-color: blue;
+  background-color: orange;
 }
 td{
-  background-color: red;
+  background-color: rgb(255, 255, 199);
 }
 img{
-  width: 50%;
-  height: 50%;
+  width: 283px;
 }
 #div1{
   position: absolute;
